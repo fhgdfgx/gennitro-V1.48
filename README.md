@@ -1,5 +1,5 @@
 # Introdutcion
-ceci va générer des nitro un check
+ceci va générer des nitro boost ou basic
 
 # amusée vous avec  le script
 
